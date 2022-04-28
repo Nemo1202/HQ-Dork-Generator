@@ -9,7 +9,7 @@ A powerful high quality dork generator.<br>
 ### Features
 - Parallel execution and fast speed
 - High Quality Dorks
-- Efficient self-mad scraper bot for scraping from the most used word generator website ``randomwordgenerator.com``
+- Efficient self-made scraper bot for scraping from the most used word generator website ``randomwordgenerator.com``
 - Advanced usage mechanics
 - Add your own dorks
 
