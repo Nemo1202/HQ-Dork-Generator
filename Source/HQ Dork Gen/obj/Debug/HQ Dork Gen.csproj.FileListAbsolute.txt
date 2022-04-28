@@ -1,0 +1,19 @@
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\HQ Dork Gen.exe.config
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\HQ Dork Gen.exe
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\HQ Dork Gen.pdb
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.csproj.AssemblyReference.cache
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.csproj.SuggestedBindingRedirects.cache
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ_Dork_Gen.Properties.Resources.resources
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.csproj.GenerateResource.cache
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.csproj.CoreCompileInputs.cache
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.exe
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.pdb
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\HtmlAgilityPack.dll
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\HtmlAgilityPack.xml
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ Dork Gen.csproj.CopyComplete
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\WebDriver.dll
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\WebDriver.Support.dll
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\obj\Debug\HQ_Dork_Gen.MainApp.resources
+C:\Users\31628\source\repos\HQ Dork Gen\HQ Dork Gen\bin\Debug\Bunifu_UI_v1.5.3.dll
