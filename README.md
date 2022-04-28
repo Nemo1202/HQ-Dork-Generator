@@ -14,7 +14,7 @@ A powerful high quality dork generator.<br>
 - Add your own dorks
 
 ### Developer
-This application is developed by Z3NTL3 for Pix4.
+**This application is developed by Z3NTL3 for Pix4.**
 
 By using the application you agree to the following terms of use:
 - Stealing code and using it for your own use case is not allowed
