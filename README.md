@@ -13,6 +13,9 @@ A powerful high quality dork generator.<br>
 - Advanced usage mechanics
 - Add your own dorks
 
+### Requirement
+The only requirement in order to run this application is Chrome.
+
 ### Developer
 **This application is developed by Z3NTL3 for Pix4.**
 
